@@ -3,6 +3,9 @@
 
 This project demonstrates a desktop robotic arm capable of object detection using an Arduino and a webcam. The project was developed as part of a university assignment under the supervision of Sir Aneel Ahmed.
 
+![Main Screen](main-screen-screenshot.png)
+![loading Screen](loading-screen-screenshot.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
